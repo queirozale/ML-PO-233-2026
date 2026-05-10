@@ -219,3 +219,13 @@ __marimo__/
 
 # Video files
 *.mp4
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.tif
+*.tiff
+*.webp
