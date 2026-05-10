@@ -9,7 +9,7 @@ else:
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 VIDEO_DIR = PROJECT_ROOT / "JAAD_clips"
-FRAMES_DIR = PROJECT_ROOT / "src" / "data" / "frames"
+FRAMES_DIR = PROJECT_ROOT / "src" / "data" / "images"
 NUM_VIDEOS = 10
 
 
